@@ -50,4 +50,3 @@ plt.show()
 
 print('The details for confusion matrix is : ')
 print(classification_report(y_test, y_pred))
-print("ehhlo");
